@@ -16,7 +16,7 @@ public class TestBot extends TelegramLongPollingBot {
     }
     @Override
     public String getBotToken() {
-        return "5348075973:AAEAQT2tLxiH0hlBDHNGD_JpreyaJ3U56pY";
+        return "****";
     }
     public static void main(String[] args) throws TelegramApiException {
         TestBot testBot = new TestBot();
